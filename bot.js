@@ -1,5 +1,6 @@
 // ----- IMPORT DERIV API -----
-import DerivAPIBasic from '@deriv/deriv-api/dist/DerivAPIBasic';
+import DerivAPIBasic from '@deriv/deriv-api/dist/DerivAPIBasic.js';
+
 
 // ----- YOUR API TOKEN -----
 const token = "PASTE_YOUR_TOKEN_HERE"; // Replace with your Deriv API token
